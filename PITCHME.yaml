@@ -8,3 +8,6 @@ highlight : ir-black
 
 # Behavior
 trasition : none
+
+
+code-line-numbers : true
