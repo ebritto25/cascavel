@@ -20,7 +20,7 @@
 ---
 
 ### Guido van Rossum
-![Guido van Rossum](https://upload.wikimedia.org/wikipedia/commons/6/66/Guido_van_Rossum_OSCON_2006.jpg =250x250)
+![Guido van Rossum](https://gvanrossum.github.io/images/GuidoByPeterAdams.jpg)
 
 	
 
