@@ -2,21 +2,24 @@
 
 ---
 
-# Roteiro
+## Roteiro
 
 * Historia da Linguagem
 * Sintaxe básica
 * Estrutura de Dados
 * Módulos Importantes
+* Criação de um WebScrapper
 
-+++
+--- 
 
-@title[Código mais simples de Python]
+## Historia da Linguagem
 
+* Criador
+* Propósito da linguagem
+*
+	
 
-```python
-print('Ola Mundo!')
-```
++++?code=codigos/simples.py&lang=python
 
 @snap[south span-100]
 @[1](Apenas Printa 'Ola Mundo' na tela)
