@@ -31,7 +31,7 @@
 
 ## Sintaxe Básica
 
----?code=codigos/tipos.py&lang=python&Tipos
+---?code=codigos/tipos.py&lang=python&title=Tipos de Variável
 
 @snap[south span-100 text-08]
 @[1](Define uma variável do tipo str)
