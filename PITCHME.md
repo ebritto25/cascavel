@@ -12,7 +12,7 @@
 
 --- 
 
-## Historia da Linguagem
+## História da Linguagem
 
 ---
 
@@ -21,7 +21,7 @@
 
 --- 
 	
-## Comparação Python 2 e 3
+## Python 2 e 3
 
 ---
 ![Comp_py_2_3](https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/uploads/2014/06/python-2-vs-3-2018.png)
@@ -31,7 +31,7 @@
 
 ## Sintaxe Básica
 
----?code=codigos/tipos.py&lang=python&title=Tipos de Variável
+---?code=codigos/tipos.py&lang=python&title=Tipos de Variáveis
 
 @snap[south span-100 text-08]
 @[1](Define uma variável do tipo str)
