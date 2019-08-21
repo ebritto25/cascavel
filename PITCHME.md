@@ -24,7 +24,7 @@
 ## Comparação Python 2 e 3
 
 ---
-![Comp_Py_2_3]https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/uploads/2014/06/python-2-vs-3-2018.png
+![Comp_Py_2_3](https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/uploads/2014/06/python-2-vs-3-2018.png)
 
 
 
