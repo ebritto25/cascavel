@@ -19,8 +19,7 @@
 
 ---
 
-@title[Guido van Rossum]
-
+### [Guido van Rossum]
 ![Guido van Rossum](https://upload.wikimedia.org/wikipedia/commons/6/66/Guido_van_Rossum_OSCON_2006.jpg)
 
 	
