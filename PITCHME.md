@@ -10,4 +10,4 @@ func main() {
 
 @snap[south span-100]
 @[1](importando o pacote pickle)
-@snapped
+@snapend
