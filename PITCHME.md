@@ -38,7 +38,6 @@
 @[2](variável do tipo bool)
 @[3](variável do tipo int)
 @[4](variável do tipo float)
-@[6]("(<type 'str'>, <type 'bool'>, <type 'int'>, <type 'float'>)")
 @snapend
 
 +++?code=codigos/ola_mundo.py&lang=python&title=Codigo Ola Mundo Imitando C
