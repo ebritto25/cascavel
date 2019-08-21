@@ -37,7 +37,7 @@
 
 ### Tipos
 
-@code[codigos/tipos.py]
+@code[python zoom-13 code-max code-shadow ](codigos/tipos.py)
 
 @snap[west span-100 text-08]
 @[1](Define uma variável do tipo String(str))
