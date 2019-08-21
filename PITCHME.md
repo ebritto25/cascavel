@@ -15,8 +15,8 @@
 ## Historia da Linguagem
 
 * Criador
+	* Guido Van Rossum
 * Propósito da linguagem
-*
 	
 
 +++?code=codigos/ola_mundo.py&lang=python&title=Codigo Ola Mundo Imitando C
