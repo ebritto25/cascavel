@@ -11,3 +11,5 @@ trasition : none
 
 
 code-line-numbers : true
+
+theme-override : assets/css/PITCHME.css
