@@ -31,13 +31,23 @@
 
 ## Sintaxe Básica
 
----?code=codigos/tipos.py&lang=python&title=Tipos de Variáveis
+---?code=codigos/tipos.py&lang=python&title=Tipos de Variaveis(Python)
 
 @snap[south span-100 text-08]
 @[1](Define uma variável do tipo str)
-@[2](variável do tipo bool)
-@[3](variável do tipo int)
-@[4](variável do tipo float)
+@[2](Variável do tipo bool)
+@[3](Variável do tipo int)
+@[4](Variável do tipo float)
+@[6](Imprime os tipos das variáveis)
+@snapend
+
+---?code=codigos/tipos.c&lang=c&title=Tipos de Variaveis(C)
+
+@snap[south span-100 text-08]
+@[3](Define uma variável do tipo str)
+@[4](Variável do tipo bool)
+@[5](Variável do tipo int)
+@[6](Variável do tipo float)
 @snapend
 
 +++?code=codigos/ola_mundo.py&lang=python&title=Codigo Ola Mundo Imitando C
