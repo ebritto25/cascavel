@@ -27,10 +27,28 @@
 ![Comp_Py_2_3](https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/uploads/2014/06/python-2-vs-3-2018.png)
 
 
+---
+
+## Sintaxe Básica
+
+---
+
+@title[Sintaxe Básica]
+
+### Tipos
+
+@code[codigos/tipos.py]
+
+@snap[west span-100 text-08]
+@[1](Define uma variável do tipo String(str))
+@[2](Define uma variável do tipo booleano(bool))
+@[3](Define uma variável do tipo inteiro(int))
+@[4](Define uma variável do tipo booleano(bool))
+@[4](Imprime na tela:"(<type 'str'>, <type 'bool'>, <type 'int'>, <type 'float'>)")
 
 +++?code=codigos/ola_mundo.py&lang=python&title=Codigo Ola Mundo Imitando C
 
-@snap[south span-100]
+@snap[south span-100 text-08]
 @[1](Define uma função "Main")
 @[2](Printa na tela "Ola Mundo")
 @snapend
