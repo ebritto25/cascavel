@@ -1,15 +1,23 @@
 # MiniCurso Python
 
+---
+
+# Roteiro
+
+* Historia da Linguagem
+* Sintaxe básica
+* Estrutura de Dados
+* Módulos Importantes
+
 +++
 
-```python
-import pickle
+@title[Código mais simples de Python]
 
-func main() {
-    fmt.Println("Hello, world!")
-}
+
+```python
+print('Ola Mundo!')
 ```
 
 @snap[south span-100]
-@[1](importando o pacote pickle)
+@[1](Apenas Printa 'Ola Mundo' na tela)
 @snapend
