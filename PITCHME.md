@@ -19,8 +19,9 @@
 *
 	
 
-+++?code=codigos/simples.py&lang=python
++++?code=codigos/ola_mundo.py&lang=python&title=Codigo Ola Mundo Imitando C
 
 @snap[south span-100]
-@[1](Apenas Printa 'Ola Mundo' na tela)
+@[1](Define uma função "Main")
+@[2](Printa na tela "Ola Mundo")
 @snapend
