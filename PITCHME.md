@@ -4,7 +4,8 @@
 
 ## Roteiro
 
-* Historia da Linguagem
+* Historia e Caracteristicas da Linguagem
+* Areas de Aplicação
 * Sintaxe básica
 * Estrutura de Dados
 * Módulos Importantes
@@ -20,6 +21,27 @@
 ![Guido_van_Rossum](https://gvanrossum.github.io/images/GuidoByPeterAdams.jpg)
 
 --- 
+
+## Python
+
+* Linguagem de propósito geral
+* Fácil e Intuitiva
+* Multiparadigmas
+* Multiplataforma
+* Interpretada
+* Biblioteca Padrão poderosa
+* Open Source
+
+---
+
+## Áreas de Aplicação
+
+* Inteligência Artifical 
+* Web
+* Automação Residencial
+
+
+---
 	
 ## Python 2 e 3
 
