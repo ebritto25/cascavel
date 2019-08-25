@@ -24,10 +24,7 @@
 ## Python 2 e 3
 
 ---
-![Comp_py_2_3](https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/uploads/2014/06/python-2-vs-3-2018.png)
-
-
----
+![Comp_py_2_3](assets/images/python2x3.png)
 
 ## Sintaxe Básica
 
