@@ -23,9 +23,9 @@
 	
 ## Python 2 e 3
 
----
 ![Comp_py_2_3](assets/images/python2x3.png)
 
+---
 ## Sintaxe Básica
 
 ---?code=codigos/tipos.py&lang=python&title=Tipos de Variaveis(Python)
