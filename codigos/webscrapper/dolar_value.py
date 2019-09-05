@@ -1,9 +1,12 @@
 import requests, json
 
 
-# Função que busca o valor atual do dolar na moeda especificada 
-# retorna uma tupla que contem:
-# convertido para float, a data da cotacao, assim como o nome da moeada
+'''
+Função que busca o valor atual do dolar na moeda especificada 
+retorna uma tupla que contem:
+convertido para float, a data da cotacao, assim como o nome da moeada
+'''
+
 def fetch_dolar_in_currency(currency_name = 'brl'): 
 
     response = requests.get('http://www.floatrates.com/daily/usd.json')
