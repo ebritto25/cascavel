@@ -3,3 +3,4 @@ include/
 lib/
 *.swp
 bp_*
+*/__pycache__/
