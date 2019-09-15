@@ -33,7 +33,7 @@ if __name__ == '__main__':
         def top_bilheteria():
 
             with open(file_name,'r') as file_:
-                currency = file_.readline()[:3]
+                currency = file_.readline().rstrip('\n')
 
             valor_dolar = dolar(currency)
             dados_filmes = scrapper.get_top_bilheteria()

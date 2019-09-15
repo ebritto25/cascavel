@@ -9,7 +9,6 @@ convertido para float, a data da cotacao, assim como o nome da moeada
 
 def fetch_dolar_in_currency(currency_name = 'brl'): 
 
-    print(currency_name)
 
     response = requests.get('http://www.floatrates.com/daily/usd.json')
 
@@ -18,7 +17,6 @@ def fetch_dolar_in_currency(currency_name = 'brl'):
     try:
         choosed_currency = currencies[currency_name]
     except: 
-        print("ASASDA")
         return None
         # Caso a chave passada nao exista no  json
 
