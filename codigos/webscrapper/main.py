@@ -1,6 +1,9 @@
 from rottenscrapper import RottenScrapper
 from dolar_value import fetch_dolar_in_currency as dolar
 
+file_name = 'currency.txt'
+
+
 if __name__ == '__main__':
     scrapper = RottenScrapper()
 
@@ -26,8 +29,13 @@ if __name__ == '__main__':
 
             print()
 
+
         def top_bilheteria():
-            valor_dolar = dolar('brl')
+
+            with open(file_name,'r') as file_:
+                currency = file_.readline()[:3]
+
+            valor_dolar = dolar(currency)
             dados_filmes = scrapper.get_top_bilheteria()
 
             desenha_cabecalho(opcoes[1])
