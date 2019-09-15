@@ -1,17 +1,3 @@
-def adicionar_lista(lista):
-    '''
-    Concatena um elemento em uma lista
-    '''
-    print(f'Endereço da Lista dentro da Função: {id(lista)}')
-    lista += [99]
-
-def adicionar_tupla(tupla):
-    '''
-    Tenta concatenar um elemento em uma tupla
-    '''
-    print(f'Endereço da Tupla dentro da Função: {id(tupla)}')
-    tupla += (99)
-
 '''
 Declaração e inicialização de um tipo mutável(lista)
 e um tipo não-mutável(tupla)
@@ -19,14 +5,16 @@ e um tipo não-mutável(tupla)
 lista = [1,2,3,4] 
 tupla = (1,2,3,4)
 
-print(f'Endereço da Lista fora da Função: {id(lista)}')
-print(f'Endereço da Tupla fora da Função: {id(tupla)}')
+print(f'Endereço da lista antes da modificação: {id(lista)}')
+print(f'Lista antes da modificação: {lista}')
+print(f'Endereço da tupla antes da modificação: {id(tupla)}')
+print(f'Tupla antes da modificação: {tupla}')
 
-print(f'Lista antes da Execução da Função: {lista}')
-print(f'Tupla antes da Execução da Função: {tupla}')
+lista += [99]
 
-adicionar_lista(lista)
-print(f'Lista depois da Execução da Função: {lista}')
+print(f'Endereço da lista depois da modificação: {id(lista)}')
+print(f'Lista depois da modificação: {lista}')
 
-adicionar_tupla(tupla)
+tupla += (99)
+print(f'Endereço da tupla depois da modificação: {id(tupla)}')
 print(f'Tupla depois da Execução da Função: {tupla}')
